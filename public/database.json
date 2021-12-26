@@ -1,0 +1,9 @@
+{
+    "words": [
+        {"id": 1, "value": "Train"},
+        {"id": 2, "value": "Car"},
+        {"id": 3, "value": "Autobus"},
+        {"id": 4, "value": "Bike"},
+        {"id": 5, "value": "Scooter"}
+    ]
+}
